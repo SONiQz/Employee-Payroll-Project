@@ -1,0 +1,474 @@
+{
+    "user": {
+        "1": {
+            "First Name": "b",
+            "Surname": "b",
+            "Address Ln 1": "b",
+            "Address Ln 2": "b",
+            "City": "b",
+            "County": "b",
+            "Postcode": "b",
+            "Phone Number": "b",
+            "Start Date": "b",
+            "Employee Designation": "b",
+            "Employee Grade": "1",
+            "Removed": "Y"
+        },
+        "2": {
+            "First Name": "b",
+            "Surname": "b",
+            "Address Ln 1": "b",
+            "Address Ln 2": "b",
+            "City": "b",
+            "County": "b",
+            "Postcode": "GL11AA",
+            "Phone Number": "0",
+            "Start Date": "31/01/2020",
+            "Employee Designation": "A",
+            "Employee Grade": "1",
+            "Removed": "N"
+        },
+        "3": {
+            "First Name": "b",
+            "Surname": "b",
+            "Address Ln 1": "b",
+            "Address Ln 2": "b",
+            "City": "b",
+            "County": "b",
+            "Postcode": "AA11AA",
+            "Phone Number": "0",
+            "Start Date": "01/01/2001",
+            "Employee Designation": "a",
+            "Employee Grade": "1",
+            "Removed": "N"
+        },
+        "4": {
+            "First Name": "c",
+            "Surname": "c",
+            "Address Ln 1": "c",
+            "Address Ln 2": "c",
+            "City": "c",
+            "County": "c",
+            "Postcode": "c",
+            "Phone Number": "c",
+            "Start Date": "c",
+            "Employee Designation": "c",
+            "Employee Grade": "3",
+            "Removed": "N"
+        },
+        "5": {
+            "First Name": "d",
+            "Surname": "d",
+            "Address Ln 1": "d",
+            "Address Ln 2": "d",
+            "City": "d",
+            "County": "d",
+            "Postcode": "d",
+            "Phone Number": "d",
+            "Start Date": "d",
+            "Employee Designation": "d",
+            "Employee Grade": "4",
+            "Removed": "N"
+        },
+        "6": {
+            "First Name": "e",
+            "Surname": "e",
+            "Address Ln 1": "e",
+            "Address Ln 2": "e",
+            "City": "e",
+            "County": "e",
+            "Postcode": "e",
+            "Phone Number": "e",
+            "Start Date": "e",
+            "Employee Designation": "e",
+            "Employee Grade": "1",
+            "Removed": "N"
+        },
+        "7": {
+            "First Name": "f",
+            "Surname": "f",
+            "Address Ln 1": "f",
+            "Address Ln 2": "f",
+            "City": "f",
+            "County": "f",
+            "Postcode": "f",
+            "Phone Number": "f",
+            "Start Date": "f",
+            "Employee Designation": "f",
+            "Employee Grade": "2",
+            "Removed": "N"
+        },
+        "8": {
+            "First Name": "g",
+            "Surname": "g",
+            "Address Ln 1": "g",
+            "Address Ln 2": "g",
+            "City": "g",
+            "County": "g",
+            "Postcode": "g",
+            "Phone Number": "g",
+            "Start Date": "g",
+            "Employee Designation": "g",
+            "Employee Grade": "3",
+            "Removed": "N"
+        },
+        "9": {
+            "First Name": "h",
+            "Surname": "h",
+            "Address Ln 1": "h",
+            "Address Ln 2": "h",
+            "City": "h",
+            "County": "h",
+            "Postcode": "h",
+            "Phone Number": "h",
+            "Start Date": "h",
+            "Employee Designation": "h",
+            "Employee Grade": "4",
+            "Removed": "N"
+        },
+        "10": {
+            "First Name": "i",
+            "Surname": "i",
+            "Address Ln 1": "i",
+            "Address Ln 2": "i",
+            "City": "i",
+            "County": "i",
+            "Postcode": "i",
+            "Phone Number": "i",
+            "Start Date": "i",
+            "Employee Designation": "i",
+            "Employee Grade": "1",
+            "Removed": "N"
+        },
+        "11": {
+            "First Name": "k",
+            "Surname": "k",
+            "Address Ln 1": "k",
+            "Address Ln 2": "k",
+            "City": "k",
+            "County": "k",
+            "Postcode": "k",
+            "Phone Number": "k",
+            "Start Date": "k",
+            "Employee Designation": "k",
+            "Employee Grade": "4",
+            "Removed": "N"
+        },
+        "12": {
+            "First Name": "m",
+            "Surname": "m",
+            "Address Ln 1": "m",
+            "Address Ln 2": "m",
+            "City": "m",
+            "County": "m",
+            "Postcode": "m",
+            "Phone Number": "m",
+            "Start Date": "m",
+            "Employee Designation": "m",
+            "Employee Grade": "3",
+            "Removed": "N"
+        },
+        "13": {
+            "First Name": "m",
+            "Surname": "m",
+            "Address Ln 1": "m",
+            "Address Ln 2": "m",
+            "City": "m",
+            "County": "m",
+            "Postcode": "m",
+            "Phone Number": "m",
+            "Start Date": "m",
+            "Employee Designation": "m",
+            "Employee Grade": "3",
+            "Removed": "N"
+        },
+        "14": {
+            "First Name": "n",
+            "Surname": "n",
+            "Address Ln 1": "n",
+            "Address Ln 2": "n",
+            "City": "n",
+            "County": "n",
+            "Postcode": "n",
+            "Phone Number": "n",
+            "Start Date": "n",
+            "Employee Designation": "n",
+            "Employee Grade": "3",
+            "Removed": "N"
+        },
+        "15": {
+            "First Name": "o",
+            "Surname": "o",
+            "Address Ln 1": "o",
+            "Address Ln 2": "o",
+            "City": "o",
+            "County": "o",
+            "Postcode": "o",
+            "Phone Number": "o",
+            "Start Date": "o",
+            "Employee Designation": "o",
+            "Employee Grade": "2",
+            "Removed": "N"
+        },
+        "16": {
+            "First Name": "Adrian",
+            "Surname": "Forrester",
+            "Address Ln 1": "2 Miners Close",
+            "Address Ln 2": "Sling",
+            "City": "Coleford",
+            "County": "Gloucestershire",
+            "Postcode": "GL168RX",
+            "Phone Number": "07826053502",
+            "Start Date": "01/05/2023",
+            "Employee Designation": "Manager",
+            "Employee Grade": "1",
+            "Removed": "N"
+        },
+        "17": {
+            "First Name": "Test",
+            "Surname": "User",
+            "Address Ln 1": "1 New Street",
+            "Address Ln 2": "Suburb",
+            "City": "Citiesville",
+            "County": "Countington",
+            "Postcode": "CT11AA",
+            "Phone Number": "0000",
+            "Start Date": "10/05/2023",
+            "Employee Designation": "Under-Manager",
+            "Employee Grade": "IV",
+            "Removed": "n"
+        }
+    },
+    "payroll": {
+        "1": {
+            "Employee Loan": "50",
+            "House Allowance": "2",
+            "Travel Allowance": "2",
+            "Health Allowance": "2"
+        },
+        "2": {
+            "Employee Loan": "2",
+            "House Allowance": "2",
+            "Travel Allowance": "2",
+            "Health Allowance": "2"
+        },
+        "3": {
+            "Employee Loan": "1",
+            "House Allowance": "1",
+            "Travel Allowance": "1",
+            "Health Allowance": "1"
+        },
+        "4": {
+            "Employee Loan": "3",
+            "House Allowance": "3",
+            "Travel Allowance": "3",
+            "Health Allowance": "3"
+        },
+        "5": {
+            "Employee Loan": "4",
+            "House Allowance": "4",
+            "Travel Allowance": "4",
+            "Health Allowance": "4"
+        },
+        "6": {
+            "Employee Loan": "5",
+            "House Allowance": "5",
+            "Travel Allowance": "5",
+            "Health Allowance": "5"
+        },
+        "7": {
+            "Employee Loan": "6",
+            "House Allowance": "6",
+            "Travel Allowance": "6",
+            "Health Allowance": "6"
+        },
+        "8": {
+            "Employee Loan": "7",
+            "House Allowance": "7",
+            "Travel Allowance": "7",
+            "Health Allowance": "7"
+        },
+        "9": {
+            "Employee Loan": "8",
+            "House Allowance": "8",
+            "Travel Allowance": "8",
+            "Health Allowance": "8"
+        },
+        "10": {
+            "Employee Loan": "9",
+            "House Allowance": "9",
+            "Travel Allowance": "9",
+            "Health Allowance": "9"
+        },
+        "11": {
+            "Employee Loan": "11",
+            "House Allowance": "11",
+            "Travel Allowance": "11",
+            "Health Allowance": "11"
+        },
+        "12": {
+            "Employee Loan": "13",
+            "House Allowance": "13",
+            "Travel Allowance": "13",
+            "Health Allowance": "13"
+        },
+        "13": {
+            "Employee Loan": "13",
+            "House Allowance": "13",
+            "Travel Allowance": "13",
+            "Health Allowance": "13"
+        },
+        "14": {
+            "Employee Loan": "14",
+            "House Allowance": "14",
+            "Travel Allowance": "14",
+            "Health Allowance": "14"
+        },
+        "15": {
+            "Employee Loan": "15",
+            "House Allowance": "15",
+            "Travel Allowance": "15",
+            "Health Allowance": "15"
+        },
+        "16": {
+            "Employee Loan": "0",
+            "House Allowance": "100",
+            "Travel Allowance": "100",
+            "Health Allowance": "100"
+        },
+        "17": {
+            "Employee Loan": 50.0,
+            "House Allowance": "2",
+            "Travel Allowance": "2",
+            "Health Allowance": "2"
+        }
+    },
+    "fiscal": {
+        "1": {
+            "1": {
+                "Date": "1000",
+                "Days Worked": "1000",
+                "Hours Overtime": "100",
+                "Basic": "1000",
+                "Loan": "1000",
+                "House Allowance": 50.0,
+                "Travel": "100",
+                "Health": 80.0,
+                "Deductions": 200.0,
+                "NET": 1030.0
+            },
+            "2": {
+                "Date": "2000",
+                "Days Worked": "2000",
+                "Hours Overtime": "2000",
+                "Basic": "2000",
+                "Loan": "2000",
+                "House Allowance": 100.0,
+                "Travel": "100",
+                "Health": 160.0,
+                "Deductions": 400.0,
+                "NET": 1960.0
+            },
+            "3": {
+                "Date": "1000",
+                "Days Worked": "1000",
+                "Hours Overtime": "1000",
+                "Basic": "1000",
+                "Loan": "1000",
+                "House Allowance": 50.0,
+                "Travel": "100",
+                "Health": 80.0,
+                "Deductions": 200.0,
+                "NET": 1030.0
+            },
+            "4": {
+                "Date": "100",
+                "Days Worked": "100",
+                "Hours Overtime": "100",
+                "Basic": "100",
+                "Loan": "100",
+                "House Allowance": 5.0,
+                "Travel": "100",
+                "Health": 8.0,
+                "Deductions": 20.0,
+                "NET": 193.0
+            },
+            "5": {
+                "Date": "999",
+                "Days Worked": "999",
+                "Hours Overtime": "999",
+                "Basic": "999",
+                "Loan": "999",
+                "House Allowance": 49.95,
+                "Travel": "100",
+                "Health": 79.92,
+                "Deductions": 199.8,
+                "NET": 1029.0700000000002
+            },
+            "6": {
+                "Date": "888",
+                "Days Worked": "888",
+                "Hours Overtime": "888",
+                "Basic": "888",
+                "Loan": "888",
+                "House Allowance": 44.400000000000006,
+                "Travel": "100",
+                "Health": 71.04,
+                "Deductions": 177.60000000000002,
+                "NET": 925.84
+            },
+            "7": {
+                "Date": "20/01/2020",
+                "Days Worked": "30",
+                "Hours Overtime": "5",
+                "Basic": "2000",
+                "Loan": "20",
+                "House Allowance": "4000.00",
+                "Travel": "100",
+                "Health": "4000.00",
+                "Deductions": "400.00",
+                "NET": "9700.00"
+            }
+        },
+        "2": {
+            "1": {
+                "Date": "1000",
+                "Days Worked": "1000",
+                "Hours Overtime": "1000",
+                "Basic": "1000",
+                "Loan": "1000",
+                "House Allowance": 50.0,
+                "Travel": "100",
+                "Health": 80.0,
+                "Deductions": 200.0,
+                "NET": 1030.0
+            },
+            "2": {
+                "Date": "100",
+                "Days Worked": "100",
+                "Hours Overtime": "100",
+                "Basic": "100",
+                "Loan": "100",
+                "House Allowance": 5.0,
+                "Travel": "100",
+                "Health": 8.0,
+                "Deductions": 20.0,
+                "NET": 193.0
+            }
+        },
+        "17": {
+            "1": {
+                "Date": "29/05/2023",
+                "Days Worked": "19",
+                "Hours Overtime": "0",
+                "Basic": "1500",
+                "Loan": "50",
+                "House Allowance": "30.00",
+                "Travel": "100",
+                "Health": "30.00",
+                "Deductions": "300.00",
+                "NET": "1360.00"
+            }
+        }
+    }
+}
